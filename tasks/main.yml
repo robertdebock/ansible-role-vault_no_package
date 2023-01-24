@@ -127,9 +127,13 @@
     backup: yes
   notify:
     - Daemon reload
+  when:
+    - ansible_service_mgr == "systemd"
 
 - name: Enable and start the Vault service
-  ansible.builtin.systemd:
+  ansible.builtin.service:
     name: vault
     state: started
     enabled: true
+  when:
+    - ansible_service_mgr == "systemd"

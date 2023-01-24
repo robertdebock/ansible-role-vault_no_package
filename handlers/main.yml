@@ -18,8 +18,12 @@
 - name: Daemon reload
   ansible.builtin.systemd:
     daemon_reload: yes
+  when:
+    - ansible_service_mgr == "systemd"
 
 - name: Restart vault
   ansible.builtin.service:
     name: vault.service
     state: restarted
+  when:
+    - ansible_service_mgr == "systemd"

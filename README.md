@@ -1,6 +1,6 @@
 # [vault_no_package](#vault_no_package)
 
-Install and configure vault_no_package on your system.
+Install and configure Vault without using a package manager on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|

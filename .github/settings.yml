@@ -3,6 +3,6 @@
 # Ansible managed
 #
 repository:
-  description: Install and configure vault_no_package on your system.
+  description: Install and configure Vault without using a package manager on your system.
   homepage: https://robertdebock.nl/
   topics: vaultnopackage, ansible, molecule, tox, playbook, hacktoberfest

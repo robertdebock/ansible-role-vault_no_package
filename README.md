@@ -4,7 +4,7 @@ Install and configure Vault without using a package manager on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/robertdebock/ansible-role-vault_no_package/workflows/Ansible%20Molecule/badge.svg)](https://github.com/robertdebock/ansible-role-vault_no_package/actions)|[![gitlab](https://gitlab.com/robertdebock-iac/ansible-role-vault_no_package/badges/master/pipeline.svg)](https://gitlab.com/robertdebock-iac/ansible-role-vault_no_package)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/robertdebock/vault_no_package)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/robertdebock/vault_no_package)|[![Version](https://img.shields.io/github/release/robertdebock/ansible-role-vault_no_package.svg)](https://github.com/robertdebock/ansible-role-vault_no_package/releases/)|
+|[![github](https://github.com/robertdebock/ansible-role-vault_no_package/workflows/Ansible%20Molecule/badge.svg)](https://github.com/robertdebock/ansible-role-vault_no_package/actions)|[![gitlab](https://gitlab.com/robertdebock-iac/ansible-role-vault_no_package/badges/master/pipeline.svg)](https://gitlab.com/robertdebock-iac/ansible-role-vault_no_package)|[![quality](https://img.shields.io/ansible/quality/61357)](https://galaxy.ansible.com/robertdebock/vault_no_package)|[![downloads](https://img.shields.io/ansible/role/d/61357)](https://galaxy.ansible.com/robertdebock/vault_no_package)|[![Version](https://img.shields.io/github/release/robertdebock/ansible-role-vault_no_package.svg)](https://github.com/robertdebock/ansible-role-vault_no_package/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
